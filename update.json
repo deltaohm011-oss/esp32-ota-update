@@ -1,4 +1,4 @@
 {
-"version": "1.0.0",
-"firmware_url": "ใส่ลิงก์ชั่วคราวไปก่อน"
+"version": "1.0.1",
+"firmware_url": "https://github.com/deltaohm011-oss/esp32-ota-update/raw/refs/heads/main/firmware.bin"
 }
